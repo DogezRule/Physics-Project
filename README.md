@@ -65,7 +65,3 @@ A low-fidelity 3D physics simulation that allows users to launch water balloons 
 2. Open your browser to the local frontend URL (usually `http://localhost:5173`).
 3. Use the **Mission Control** panel to adjust environmental variables.
 4. Aim and launch the water balloon to observe the trajectory and telemetry data.
-
-## License
-
-This project is licensed under the MIT License.
